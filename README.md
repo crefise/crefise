@@ -1,6 +1,6 @@
-## I`m beginner fullstack developer
+## WELCOME
 
-## Languages and tools
+## Languages/frameworks
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00648B)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html&logoColor=00648B)
