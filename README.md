@@ -15,8 +15,6 @@
 
 
 
-<p align="center">
-    <a href="https://open.spotify.com/user/uj3710mckwjbevk5gc1wf35qq">
-    <img src="https://spotify-natemoo.vercel.app/now-playing" width="360" alt="Now Playing">
-    </a>
-</p>
+<h3>Spotify playing...</h3>
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/uj3710mckwjbevk5gc1wf35qq)
+
