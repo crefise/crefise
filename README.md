@@ -1,4 +1,4 @@
-## WELCOME
+
 <h2 align = "center">About me</h2>
 <p align = "center">Name: <b>Vladimir Ponomarenko</b></p>
 <p align = "center">From: <b>Kharkiv [UA]</b></p>
