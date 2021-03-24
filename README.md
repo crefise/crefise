@@ -14,5 +14,5 @@
 <a href="mailto:crefise@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/gmail.svg" alt="crefise@gmail.com" height="30" width="40" /></a></p>
 
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/uj3710mckwjbevk5gc1wf35qq)
 
