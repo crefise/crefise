@@ -14,9 +14,9 @@
 <a href="mailto:crefise@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/gmail.svg" alt="crefise@gmail.com" height="30" width="40" /></a></p>
 
 
+
 <p align="center">
-<h3 align="left">Spotify Playing 🎧</h3>
-
-[<img src="https://novatorem.rolaxxx3.vercel.app/api/spotify" alt="Crefise Spotify Playing" width="350" />](https://open.spotify.com/user/uj3710mckwjbevk5gc1wf35qq)
-
+    <a href="https://open.spotify.com/user/uj3710mckwjbevk5gc1wf35qq">
+    <img src="https://spotify-natemoo.vercel.app/now-playing" width="360" alt="Now Playing">
+    </a>
 </p>
