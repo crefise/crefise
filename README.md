@@ -4,7 +4,7 @@
 <p align = "center">From: <b>Kharkiv [UA]</b></p>
 <p align = "center">Education: <b>I study at KHPI / UCODE CONNECT</b></p>
 <p align = "center">Сurrent specialization: <b>.NET developer</b></p>
-<h3 align="center"><a  href="https://crefise.github.io/">MY SITE(click)</a></h3>
+
 
 
 
