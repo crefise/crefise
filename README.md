@@ -1,6 +1,6 @@
 
 <h2 align = "center">About me</h2>
-<p align = "center">Name: <b>Vladimir Ponomarenko</b></p>
+<p align = "center">Name: <b>Volodymyr Ponomarenko</b></p>
 <p align = "center">From: <b>Kharkiv [UA]</b></p>
 <p align = "center">Education: <b>I study at KHPI / UCODE CONNECT</b></p>
 <p align = "center">Сurrent specialization: <b>PHP Full stack developer</b></p>
